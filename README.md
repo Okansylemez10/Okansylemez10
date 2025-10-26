@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi there, I'm Okan
 
-<!--
-**Okansylemez10/Okansylemez10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Blockchain & Python Developer**  
+⚡ Building tools on Ethereum & Base Network  
+🌱 Currently working on: `wallet-balance-cli`
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Okansylemez10&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Okansylemez10&layout=compact&theme=transparent)
+
+---
+
+### 🚀 **Featured Projects**
+
+- 🔹 [wallet-balance-cli](https://github.com/Mabolla/wallet-balance-cli)
+- 🔹 (Forked, geliştirme yapıyorum)  
+
+---
+
+### 🌐 **Contact & Links**
+
+- Twitter: @  
+- Email:  
+- Website / Portfolio: (Varsa)
+
+---
+
+⭐ *If you like my work, don't forget to star my repositories!*

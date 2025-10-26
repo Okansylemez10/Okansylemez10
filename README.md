@@ -25,6 +25,7 @@
 - 🔹 (Forked, geliştirme yapıyorum)  
 
 ---
+ty
 
 ### 🌐 **Contact & Links**
 

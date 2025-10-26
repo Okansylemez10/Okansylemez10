@@ -13,6 +13,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Okansylemez10&layout=compact&theme=transparent)
 
 ---
+### 🌍 Visitor Counter
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Okansylemez10&color=grey)
+
+
 
 ### 🚀 **Featured Projects**
 
